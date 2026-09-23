@@ -1,4 +1,4 @@
-# IT Infrastructure & DevOps Trainee — Practical Assignment
+# IT Infrastructure & DevOps 
 
 A hardened Ubuntu host running a containerized Nginx → Flask → PostgreSQL
 stack, with automated health checks, backups, and basic metrics monitoring.
