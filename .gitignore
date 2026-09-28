@@ -5,3 +5,7 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# Gemini CLI settings and credentials
+.gemini/
+gha-creds-*.json
